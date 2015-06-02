@@ -1,0 +1,14 @@
+c:\users\dima\documents\visual studio 2013\Projects\VkMusicLibrary\VkMusicLibrary\bin\Debug\VkMusicLibrary.pdb
+c:\users\dima\documents\visual studio 2013\Projects\VkMusicLibrary\VkMusicLibrary\obj\Debug\VkMusicLibrary.csprojResolveAssemblyReference.cache
+c:\users\dima\documents\visual studio 2013\Projects\VkMusicLibrary\VkMusicLibrary\obj\Debug\VkMusicLibrary.pdb
+C:\Users\Dima\Documents\Visual Studio 2013\Projects\VkMusicLibrary\VkMusicLibrary\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Dima\Documents\Visual Studio 2013\Projects\VkMusicLibrary\VkMusicLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dima\Documents\Visual Studio 2013\Projects\VkMusicLibrary\VkMusicLibrary\bin\Debug\VkNet.dll
+C:\Users\Dima\Documents\Visual Studio 2013\Projects\VkMusicLibrary\VkMusicLibrary\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Dima\Documents\Visual Studio 2013\Projects\VkMusicLibrary\VkMusicLibrary\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Dima\Documents\Visual Studio 2013\Projects\VkMusicLibrary\VkMusicLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dima\Documents\Visual Studio 2013\Projects\VkMusicLibrary\VkMusicLibrary\bin\Debug\VkNet.pdb
+C:\Users\Dima\Documents\Visual Studio 2013\Projects\VkMusicLibrary\VkMusicLibrary\bin\Debug\VkNet.xml
+C:\Users\Dima\Documents\Visual Studio 2013\Projects\VkMusicLibrary\VkMusicLibrary\bin\Debug\VkMusicLibrary.dll.config
+C:\Users\Dima\Documents\Visual Studio 2013\Projects\VkMusicLibrary\VkMusicLibrary\bin\Debug\VkMusicLibrary.dll
+C:\Users\Dima\Documents\Visual Studio 2013\Projects\VkMusicLibrary\VkMusicLibrary\obj\Debug\VkMusicLibrary.dll

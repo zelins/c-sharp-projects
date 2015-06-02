@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="VkMusicWFLibrary.WFOutputFactory" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAoQAAAAAAACBAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WFFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VkMusicWFLibrary.WFPageListOutputManager">
+    <Position X="2.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAGAAAA=</HashCode>
+      <FileName>WFPageListOutputManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VkMusicWFLibrary.WFSearchFormOutputManager">
+    <Position X="6" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAACAAAAQAAAAAAAAAAAEAAAAAAAAAACAAAA=</HashCode>
+      <FileName>WFSearchFormOutputManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Calibri" Size="9" />
+</ClassDiagram>

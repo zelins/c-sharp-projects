@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="for future:&#xD;&#xA;implement abstract factory for creating family of OutputManagers">
+    <Position X="7.82" Y="0.5" Height="0.677" Width="2.096" />
+  </Comment>
+  <Class Name="VkMusicLibrary.AudioFile" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAgAAAAAAAQAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AudioFile.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Iplay" />
+      <Property Name="Idownload" />
+      <Property Name="MediaOutput" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="VkMusicLibrary.MediaOutputManager" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAACAAAA=</HashCode>
+      <FileName>MediaOutputManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VkMusicLibrary.PageOutputManager" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAACAAAA=</HashCode>
+      <FileName>PageOutputManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VkMusicLibrary.Page">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Page.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="PageOutput" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="VkMusicLibrary.PageList">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgAAAAAAAAAAAgAgAIAAAACAAAAACAAAAAgAAAAAAAA=</HashCode>
+      <FileName>PageList.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="PageListOutput" />
+      <Property Name="SearchForm" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="VkMusicLibrary.PageListOutputManager" Collapsed="true">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAACAAAA=</HashCode>
+      <FileName>PageListOutputManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VkMusicLibrary.OutputFactory" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAoQAAAAAAACBAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OutputFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VkMusicLibrary.SearchForm">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <AssociationLine Name="SearchFormOutputManager" Type="VkMusicLibrary.SearchFormOutputManager">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.015" Y="0.039" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgACAAAAAAAAAAgAAA=</HashCode>
+      <FileName>SearchForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="SearchFormOutputManager" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="VkMusicLibrary.SearchFormOutputManager" Collapsed="true">
+    <Position X="8" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAACAAAA=</HashCode>
+      <FileName>SearchFormOutputManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="VkMusicLibrary.Iplay" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>IPlay.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="VkMusicLibrary.IDownload" Collapsed="true">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>IDownload.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Calibri" Size="9" />
+</ClassDiagram>
